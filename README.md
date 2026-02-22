@@ -97,8 +97,8 @@ npm run dev
 ## 📬 Contato
 
 - 📧 Email: lucasgamendes@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/seu-link
-- 🐙 GitHub: https://github.com/seuusuario
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-gabriel2002
+- 🐙 GitHub: https://github.com/Lucas1802
 
 ---
 
