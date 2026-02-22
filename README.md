@@ -72,7 +72,7 @@ src/
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/...
+git clone https://github.com/....
 
 # Entrar na pasta
 cd portfolio
