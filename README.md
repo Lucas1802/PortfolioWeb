@@ -15,6 +15,7 @@ Este portfólio foi criado para apresentar meus projetos, tecnologias e experiê
 - React
 - Vite
 - TailwindCSS
+- JavaScript
 - Framer Motion
 - Lucide Icons
 
