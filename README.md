@@ -103,10 +103,4 @@ npm run dev
 
 ---
 
-## ⭐ Contribuição
-
-Sinta-se livre para abrir issues ou sugestões.
-
----
-
 Desenvolvido com 💙 por Lucas Gabriel
