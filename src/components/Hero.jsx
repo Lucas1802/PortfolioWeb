@@ -3,7 +3,7 @@ import TechCarousel from "./TechCarousel";
 
 function Hero() {
   return (
-    <section className="relative min-h-screen flex items-center justify-center text-center overflow-hidden text-white px-6 pt-32">
+    <section className="relative min-h-screen flex items-center justify-center text-center overflow-hidden text-white px-6 pt-32 pb-32">
 
       {/* Fundo gradiente separado */}
       <div className="absolute inset-0 z-0 bg-gradient-to-br from-[#0f172a] via-[#0b1120] to-black" />
