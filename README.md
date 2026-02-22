@@ -1,16 +1,111 @@
-# React + Vite
+# 🚀 Portfolio – Lucas Gabriel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio moderno desenvolvido com React, Vite e TailwindCSS, com foco em performance, animações suaves e identidade visual moderna.
 
-Currently, two official plugins are available:
+## 👨‍💻 Sobre
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sou QA Engineer com foco em automação de testes, qualidade de software e boas práticas de desenvolvimento.
 
-## React Compiler
+Este portfólio foi criado para apresentar meus projetos, tecnologias e experiência de forma interativa e visualmente impactante.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- TailwindCSS
+- Framer Motion
+- Lucide Icons
+
+---
+
+## ✨ Funcionalidades
+
+- 🎨 UI moderna com gradientes
+- 🔥 Mouse Glow interativo acompanhando o cursor
+- 🎬 Animações de entrada ao scroll
+- 📦 Cards de projetos com hover animado
+- 🔗 Links diretos para GitHub
+- 📧 Contato via mailto
+- 📱 Layout responsivo
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+src/
+ ├── components/
+ │    ├── About.jsx
+ │    ├── Contact.jsx
+ │    ├── Hero.jsx
+ │    ├── MouseGlow.jsx
+ │    ├── Navbar.jsx
+ │    ├── Projects.jsx
+ │    ├── Reveal.jsx
+ │    └── TechCarousel.jsx
+ │
+ ├── data/
+ │    ├── projects.js
+ │    └── techs.js
+ │
+ ├── App.jsx
+ ├── index.css
+ └── main.jsx
+```
+
+---
+
+## 📸 Preview
+
+```bash
+
+![Portfolio Preview](./public/preview.png)
+
+```
+
+---
+
+## ⚙️ Como rodar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/seuusuario/portfolio
+
+# Entrar na pasta
+cd portfolio
+
+# Instalar dependências
+npm install
+
+# Rodar em ambiente de desenvolvimento
+npm run dev
+```
+
+---
+
+## 📌 Melhorias Futuras
+
+- [ ] Adicionar formulário de contato funcional
+- [ ] Implementar dark/light toggle
+- [ ] Melhorar animações do Hero
+- [ ] Adicionar modo multi-idioma
+
+---
+
+## 📬 Contato
+
+- 📧 Email: lucasgamendes@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/seu-link
+- 🐙 GitHub: https://github.com/seuusuario
+
+---
+
+## ⭐ Contribuição
+
+Sinta-se livre para abrir issues ou sugestões.
+
+---
+
+Desenvolvido com 💙 por Lucas Gabriel
