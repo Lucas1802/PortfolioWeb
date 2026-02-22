@@ -1,0 +1,17 @@
+export const techs = [
+  { name: "Cypress", tool: "BackEnd", img: "" },
+  { name: "Postman", tool: "BackEnd", icon: "📬" },
+  { name: "VS Code", tool: "Tools", icon: "📬" },
+  { name: "JavaScript", tool: "FrontEnd", icon: "🟨" },
+  { name: "React", tool: "FrontEnd", icon: "⚛️" },
+  { name: "Node.js", tool: "BackEnd", icon: "🟢" },
+  { name: "TypeScript", tool: "FrontEnd", icon: "🔵" },
+  { name: "Git", tool: "Tools", icon: "🔵" },
+  { name: "GitHub", tool: "Tools", icon: "🔵" },
+  { name: "Vite", tool: "FrontEnd", icon: "🔵" },
+  { name: "Tailwind CSS", tool: "FrontEnd", icon: "🔵" },
+  { name: "PostgreSQL", tool: "BackEnd", icon: "🔵" },
+  { name: "Jira", tool: "Tools", icon: "🔵" },
+  { name: "Scrum", tool: "Tools", icon: "🔵" },
+  { name: "Python", tool: "BackEnd", icon: "🔵" },
+];
