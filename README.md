@@ -103,4 +103,4 @@ npm run dev
 
 ---
 
-Desenvolvido com 💙 por Lucas Gabriel
+Desenvolvido com 💙 por **Lucas Gabriel**
