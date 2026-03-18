@@ -35,7 +35,7 @@ export const projects = [
     description:
       "Desenvolvimento de portfólio pessoal em React com efeito interativo MouseGlow, foco em componentização, organização de layout e identidade visual. Projeto estruturado com boas práticas de front-end, responsividade e estilização moderna utilizando Tailwind CSS.",
     tech: ["React", "Vite", "JavaScript", "Tailwind CSS", "Frontend", "UI", "Git", "Frame Motion"],
-    github: "https://porfolioLucasGabriel.com",
+    github: "https://www.lucasgabrielqa.com.br/",
     image: "/portfolioLucasGabriel.png",
     featured: false,
   },

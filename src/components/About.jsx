@@ -5,6 +5,7 @@ function About() {
     <section id="about" className="relative py-28 text-white px-6 bg-black">
       <div className="relative z-20"></div>
       <div className="max-w-4xl mx-auto text-center">
+        
         <Reveal>
           <h2 className="text-3xl md:text-4xl font-bold mb-8">
             Sobre{" "}

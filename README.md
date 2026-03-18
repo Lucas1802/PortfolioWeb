@@ -17,7 +17,6 @@ Este portfólio foi criado para apresentar meus projetos, tecnologias e experiê
 - TailwindCSS
 - JavaScript
 - Framer Motion
-- Lucide Icons
 
 ---
 
